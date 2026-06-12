@@ -1,4 +1,4 @@
-# OpenHealthOS
+# ImmuForge
 
 <p align="center">
   <img src="images/logo.png" alt="OpenHealthOS Logo" width="200"/>
